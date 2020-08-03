@@ -1,4 +1,4 @@
-# Zig Win32 Midi In Driver for the Numark PartyMix
+# Win32 Numark PartyMix Driver written in Zig!
 
 ### Intro
 
